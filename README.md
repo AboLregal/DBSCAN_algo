@@ -6,3 +6,5 @@ first parameters are epsilon (e) & min points (mnpts)
 the input data (dat)
 
 by applying the method of dbscan , the output will be cluster indecies (idx) ,a clusters groups (G3)
+
+idx2=dbscan(dat,e,mnpts); this line only works for matlab r2019 a and older versions
